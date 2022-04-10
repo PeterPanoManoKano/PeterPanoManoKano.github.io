@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="styles.css">
+	<!-- <link rel="stylesheet" href="test.css"> -->
+	<title>Document</title>
+</head>
+<body>
+	<template id="step-row--template">
+		<div class="table-row table-row--content">
+			<div class="cell step-cell cell--collapsed-header">
+				<div class="cell--header">Step #01</div>
+				<div class="cell--content">Step #XX</div>
+			</div>
+			<div class="cell action-cell">
+				<div class="cell--header">Action</div>
+				<div class="cell--content">Action Placeholder</div>
+			</div>
+			<div class="cell key-farm-cell">
+				<div class="cell--header">Keys to farm</div>
+				<div class="cell--content">X</div>
+			</div>
+			<div class="cell from-portal-cell">
+				<div class="cell--header">from Portal</div>
+				<div class="cell--content">#X Portal Name</div>
+			</div>
+			<div class="cell to-portal-cell">
+				<div class="cell--header">to Portal</div>
+				<div class="cell--content">#X Portal Name</div>
+			</div>
+		</div>
+		<div class="table-row table-row--done"></div>
+	</template>
+	
+	<template id="portal-row--template">
+		<div class="table-row table-row--content">
+			<div class="cell portal-num-cell">
+				<div class="cell--header">Portal #</div>
+				<div class="cell--content">Portal #XX</div>
+			</div>
+			<div class="cell portal-name-cell cell--collapsed-header">
+				<div class="cell--header">Action</div>
+				<div class="cell--content">Name Placeholder</div>
+			</div>
+			<div class="cell keys-have-cell">
+				<div class="cell--header">Keys have</div>
+				<div class="cell--content">
+					<input class="keys-have-input" type="number" name="keysHave">
+				</div>
+			</div>
+			<div class="cell keys-need-cell">
+				<div class="cell--header">Keys need</div>
+				<div class="cell--content">X</div>
+			</div>
+		</div>
+	</template>
+
+	<div class="wrapper">
+		<div class="header">
+			<div class="header-row">
+				<div class="header-cell project-name-cell">Project Name</div>
+				<div class="header-cell portal-list-cell" id="portalListBtn">Portal List</div>
+			</div>
+		</div>
+		
+		<div class="table-wrapper">
+
+			<div class="table" id="stepsTable">
+				<div class="table-row table-row--header">
+					<div class="cell step-cell column--header">Step #</div>
+					<div class="cell action-cell column--header">Action</div>
+					<div class="cell key-farm-cell column--header">Keys to farm</div>
+					<div class="cell from-portal-cell column--header">From Portal</div>
+					<div class="cell to-portal-cell column--header">To Portal</div>
+				</div>
+			</div>
+			<div class="table portals-table" id="portalsTable" style="display: none;">
+				<div class="table-row table-row--header">
+					<div class="cell portal-num-cell column--header">Portal #</div>
+					<div class="cell portal-name-cell column--header">Portal Name</div>
+					<div class="cell keys-have-cell column--header">Keys Have</div>
+					<div class="cell keys-need-cell column--header">Keys Need</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script src="js/jquery-3.6.0.min.js"></script>
+	<script src="js/jquery-ui.min.js"></script>
+	<script src="js/jquery.csv.min.js"></script>
+	<script src="main.js"></script>
+
+</body>
+</html>

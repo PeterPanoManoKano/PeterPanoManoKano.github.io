@@ -1,0 +1,36 @@
+Ownership Preparation: sorted by portal number
+
+# = portal number on portal map
+Name = portal name in portal file
+
+These portals' first links are incoming. They should be at full resonators before linking.
+
+  # ; Name
+  0 ; Stolperstein Dr. Leo Baeck
+  2 ; Verzierte Wasserpumpe
+  4 ; Alexander Stolpersteine
+  5 ; Stolpersteine Mottek
+  6 ; Stolpersteine Leiser
+  7 ; Lukas Kirche
+  8 ; Rudolph Wilde Park
+  9 ; Ratskeller
+ 12 ; Blumentopf
+ 13 ; Der goldene Hirsch
+ 14 ; Spielplatz Rudolph Wilde Park
+ 16 ; Gedenktafel Alexander Roda Roda
+ 17 ; Mosaik am U-Bhf Schöneberg
+ 19 ; Bird painting
+ 20 ; Wilde Park
+ 21 ; Statue auf der Carl-Zuckmaier
+ 22 ; Sitting Ducks
+ 23 ; Liebes Schlösser
+
+These portals' first links are outgoing. Their resonators can be applied when the first agent arrives.
+
+  # ; Name
+  1 ; Jungle Monkey
+  3 ; Gedenktafel Karl Zuckmayer
+ 10 ; Reichsfreiherr Carl
+ 11 ; Tiger Power
+ 15 ; Berlin-Schöneberg und seine Partnerschaften
+ 18 ; Stolperstein Pauline Zander

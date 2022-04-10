@@ -1,0 +1,24 @@
+Stolperstein Dr. Leo Baeck;https://www.ingress.com/intel?ll=52.482113,13.341161&z=17&pll=52.482113,13.341161;0
+Jungle Monkey;https://www.ingress.com/intel?ll=52.481746,13.340565&z=17&pll=52.481746,13.340565;0
+Verzierte Wasserpumpe;https://www.ingress.com/intel?ll=52.482512,13.342631&z=17&pll=52.482512,13.342631;0
+Gedenktafel Karl Zuckmayer;https://www.ingress.com/intel?ll=52.482735,13.342559&z=17&pll=52.482735,13.342559;0
+Alexander Stolpersteine;https://www.ingress.com/intel?ll=52.482057,13.343579&z=17&pll=52.482057,13.343579;0
+Stolpersteine Mottek;https://www.ingress.com/intel?ll=52.481567,13.345172&z=17&pll=52.481567,13.345172;0
+Stolpersteine Leiser;https://www.ingress.com/intel?ll=52.482277,13.345236&z=17&pll=52.482277,13.345236;0
+Lukas Kirche;https://www.ingress.com/intel?ll=52.482942,13.346807&z=17&pll=52.482942,13.346807;0
+Rudolph Wilde Park;https://www.ingress.com/intel?ll=52.484112,13.344258&z=17&pll=52.484112,13.344258;0
+Ratskeller;https://www.ingress.com/intel?ll=52.484472,13.34433&z=17&pll=52.484472,13.34433;0
+Reichsfreiherr Carl;https://www.ingress.com/intel?ll=52.484365,13.343524&z=17&pll=52.484365,13.343524;0
+Tiger Power;https://www.ingress.com/intel?ll=52.484194,13.342742&z=17&pll=52.484194,13.342742;0
+Blumentopf;https://www.ingress.com/intel?ll=52.483776,13.34409&z=17&pll=52.483776,13.34409;0
+Der goldene Hirsch;https://www.ingress.com/intel?ll=52.483395,13.343822&z=17&pll=52.483395,13.343822;0
+Spielplatz Rudolph Wilde Park;https://www.ingress.com/intel?ll=52.483899,13.343848&z=17&pll=52.483899,13.343848;0
+Berlin-Schöneberg und seine Partnerschaften;https://www.ingress.com/intel?ll=52.484192,13.345286&z=17&pll=52.484192,13.345286;0
+Gedenktafel Alexander Roda Roda;https://www.ingress.com/intel?ll=52.484091,13.34186&z=17&pll=52.484091,13.34186;0
+Mosaik am U-Bhf Schöneberg;https://www.ingress.com/intel?ll=52.483712,13.341775&z=17&pll=52.483712,13.341775;0
+Stolperstein Pauline Zander;https://www.ingress.com/intel?ll=52.482885,13.338452&z=17&pll=52.482885,13.338452;0
+Bird painting;https://www.ingress.com/intel?ll=52.483701,13.341391&z=17&pll=52.483701,13.341391;0
+Wilde Park;https://www.ingress.com/intel?ll=52.483354,13.341475&z=17&pll=52.483354,13.341475;0
+Statue auf der Carl-Zuckmaier;https://www.ingress.com/intel?ll=52.483212,13.342133&z=17&pll=52.483212,13.342133;0
+Sitting Ducks;https://www.ingress.com/intel?ll=52.483252,13.34244&z=17&pll=52.483252,13.34244;0
+Liebes Schlösser;https://www.ingress.com/intel?ll=52.482858,13.342221&z=17&pll=52.482858,13.342221;0

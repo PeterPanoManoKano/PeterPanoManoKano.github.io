@@ -1,0 +1,193 @@
+Agent 1 Linking Assignment: links should be made in this order
+
+Link = the current link number
+Agent = the person making this link
+# = portal number on portal map
+Link Origin/Destination = portal name in portal file
+
+Link ; Agent ;   # ; Link Origin
+                 # ; Link Destination
+
+   1 ;     1 ;  18 ; Stolperstein Pauline Zander 
+             ;  23 : Liebes Schlösser 
+
+   2 ;     1 ;  18 ; Stolperstein Pauline Zander 
+             ;   4 : Alexander Stolpersteine 
+
+   3 ;     1 ;  18 ; Stolperstein Pauline Zander 
+             ;  19 : Bird painting 
+
+   4 ;     1 ;  18 ; Stolperstein Pauline Zander 
+             ;  17 : Mosaik am U-Bhf Schöneberg 
+
+   5 ;     1 ;  18 ; Stolperstein Pauline Zander 
+             ;  20 : Wilde Park 
+
+   6 ;     1 ;  18 ; Stolperstein Pauline Zander 
+             ;   5 : Stolpersteine Mottek 
+
+   7 ;     1 ;  18 ; Stolperstein Pauline Zander 
+             ;   2 : Verzierte Wasserpumpe 
+
+   8 ;     1 ;  18 ; Stolperstein Pauline Zander 
+             ;   0 : Stolperstein Dr. Leo Baeck 
+
+   9 ;     1 ;   1 ; Jungle Monkey 
+             ;  18 : Stolperstein Pauline Zander 
+
+  10 ;     1 ;   1 ; Jungle Monkey 
+             ;   0 : Stolperstein Dr. Leo Baeck 
+
+  11 ;     1 ;   1 ; Jungle Monkey 
+             ;   5 : Stolpersteine Mottek 
+
+  12 ;     1 ;  11 ; Tiger Power 
+             ;   5 : Stolpersteine Mottek 
+
+  13 ;     1 ;  11 ; Tiger Power 
+             ;  13 : Der goldene Hirsch 
+
+  14 ;     1 ;  10 ; Reichsfreiherr Carl 
+             ;  12 : Blumentopf 
+
+  15 ;     1 ;  10 ; Reichsfreiherr Carl 
+             ;  14 : Spielplatz Rudolph Wilde Park 
+
+  16 ;     1 ;  15 ; Berlin-Schöneberg und seine Partnerschaften 
+             ;   9 : Ratskeller 
+
+  17 ;     1 ;  15 ; Berlin-Schöneberg und seine Partnerschaften 
+             ;   7 : Lukas Kirche 
+
+  18 ;     1 ;  15 ; Berlin-Schöneberg und seine Partnerschaften 
+             ;   6 : Stolpersteine Leiser 
+
+  19 ;     1 ;  15 ; Berlin-Schöneberg und seine Partnerschaften 
+             ;   5 : Stolpersteine Mottek 
+
+  20 ;     1 ;   7 ; Lukas Kirche 
+             ;   5 : Stolpersteine Mottek 
+
+  21 ;     1 ;   7 ; Lukas Kirche 
+             ;   6 : Stolpersteine Leiser 
+
+  22 ;     1 ;   5 ; Stolpersteine Mottek 
+             ;  16 : Gedenktafel Alexander Roda Roda 
+
+  23 ;     1 ;   5 ; Stolpersteine Mottek 
+             ;   8 : Rudolph Wilde Park 
+
+  24 ;     1 ;   5 ; Stolpersteine Mottek 
+             ;  10 : Reichsfreiherr Carl 
+
+  25 ;     1 ;   5 ; Stolpersteine Mottek 
+             ;   9 : Ratskeller 
+
+  26 ;     1 ;   5 ; Stolpersteine Mottek 
+             ;   6 : Stolpersteine Leiser 
+
+  27 ;     1 ;   5 ; Stolpersteine Mottek 
+             ;   0 : Stolperstein Dr. Leo Baeck 
+
+  28 ;     1 ;   5 ; Stolpersteine Mottek 
+             ;  14 : Spielplatz Rudolph Wilde Park 
+
+  29 ;     1 ;   5 ; Stolpersteine Mottek 
+             ;  12 : Blumentopf 
+
+  30 ;     1 ;   4 ; Alexander Stolpersteine 
+             ;   5 : Stolpersteine Mottek 
+
+  31 ;     1 ;   2 ; Verzierte Wasserpumpe 
+             ;   5 : Stolpersteine Mottek 
+
+  32 ;     1 ;   2 ; Verzierte Wasserpumpe 
+             ;   4 : Alexander Stolpersteine 
+
+  33 ;     1 ;   3 ; Gedenktafel Karl Zuckmayer 
+             ;   5 : Stolpersteine Mottek 
+
+  34 ;     1 ;  23 ; Liebes Schlösser 
+             ;  20 : Wilde Park 
+
+  35 ;     1 ;  23 ; Liebes Schlösser 
+             ;  17 : Mosaik am U-Bhf Schöneberg 
+
+  36 ;     1 ;  23 ; Liebes Schlösser 
+             ;   5 : Stolpersteine Mottek 
+
+  37 ;     1 ;  23 ; Liebes Schlösser 
+             ;  21 : Statue auf der Carl-Zuckmaier 
+
+  38 ;     1 ;  23 ; Liebes Schlösser 
+             ;   2 : Verzierte Wasserpumpe 
+
+  39 ;     1 ;  23 ; Liebes Schlösser 
+             ;   3 : Gedenktafel Karl Zuckmayer 
+
+  40 ;     1 ;  21 ; Statue auf der Carl-Zuckmaier 
+             ;   5 : Stolpersteine Mottek 
+
+  41 ;     1 ;  21 ; Statue auf der Carl-Zuckmaier 
+             ;   3 : Gedenktafel Karl Zuckmayer 
+
+  42 ;     1 ;  21 ; Statue auf der Carl-Zuckmaier 
+             ;  22 : Sitting Ducks 
+
+  43 ;     1 ;  22 ; Sitting Ducks 
+             ;   5 : Stolpersteine Mottek 
+
+  44 ;     1 ;  13 ; Der goldene Hirsch 
+             ;   5 : Stolpersteine Mottek 
+
+  45 ;     1 ;  12 ; Blumentopf 
+             ;  14 : Spielplatz Rudolph Wilde Park 
+
+  46 ;     1 ;  12 ; Blumentopf 
+             ;   8 : Rudolph Wilde Park 
+
+  47 ;     1 ;  17 ; Mosaik am U-Bhf Schöneberg 
+             ;  20 : Wilde Park 
+
+  48 ;     1 ;  17 ; Mosaik am U-Bhf Schöneberg 
+             ;  19 : Bird painting 
+
+  49 ;     1 ;  16 ; Gedenktafel Alexander Roda Roda 
+             ;  11 : Tiger Power 
+
+  50 ;     1 ;  16 ; Gedenktafel Alexander Roda Roda 
+             ;  10 : Reichsfreiherr Carl 
+
+  51 ;     1 ;  16 ; Gedenktafel Alexander Roda Roda 
+             ;  18 : Stolperstein Pauline Zander 
+
+  52 ;     1 ;  16 ; Gedenktafel Alexander Roda Roda 
+             ;  23 : Liebes Schlösser 
+
+  53 ;     1 ;  16 ; Gedenktafel Alexander Roda Roda 
+             ;  21 : Statue auf der Carl-Zuckmaier 
+
+  54 ;     1 ;  16 ; Gedenktafel Alexander Roda Roda 
+             ;  22 : Sitting Ducks 
+
+  55 ;     1 ;  16 ; Gedenktafel Alexander Roda Roda 
+             ;  17 : Mosaik am U-Bhf Schöneberg 
+
+  56 ;     1 ;  16 ; Gedenktafel Alexander Roda Roda 
+             ;  19 : Bird painting 
+
+  57 ;     1 ;  10 ; Reichsfreiherr Carl 
+             ;   9 : Ratskeller 
+
+  58 ;     1 ;  10 ; Reichsfreiherr Carl 
+             ;  11 : Tiger Power 
+
+  59 ;     1 ;  10 ; Reichsfreiherr Carl 
+             ;  13 : Der goldene Hirsch 
+
+  60 ;     1 ;   9 ; Ratskeller 
+             ;  12 : Blumentopf 
+
+  61 ;     1 ;   9 ; Ratskeller 
+             ;   8 : Rudolph Wilde Park 
+
